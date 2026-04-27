@@ -91,16 +91,16 @@ Validated:
 ## Screenshots
 
 ### ISO Verification
-![Checksum Verification](screenshots/iso-checksum-verification.png)
+<img src="screenshots/checksum-verification.png" style="width: 800;">
 
 ### VM Configuration
-![VM Settings](screenshots/vm-configuration-settings.png)
+<img src="screenshots/vm-settings.png" style="width: 520;">
 
 ### Parrot Desktop
-![Desktop](screenshots/parrot-desktop-login.png)
+<img src="screenshots/parrot-desktop.png" style="width: 520;">
 
 ### Update Validation
-![Updates](screenshots/system-update-validation.png)
+<img src="screenshots/update-validation.png" style="width: 50%;">
 
 ---
 
@@ -119,4 +119,4 @@ Validated:
 
 Full lab write-up:
 
-[Lab Assignment PDF](docs/Lab-Assignment-Install-Parrot-OS.pdf)
+[Lab Assignment PDF](documentation/Install-parrot-os.pdf)
